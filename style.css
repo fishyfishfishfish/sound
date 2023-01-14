@@ -1,0 +1,17 @@
+body{
+    background-color: brown;
+    color:chartreuse;
+}
+.header_div{
+    background-color: aquamarine;
+    color:cornflowerblue;
+}
+.footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-color: thistle;
+    color:orangered;
+    font-size:1px;
+}
